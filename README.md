@@ -1,7 +1,7 @@
 ## microcontainer based on Alpine with working init process
-[![](https://images.microbadger.com/badges/image/nimmis/alpine-micro.svg)](https://microbadger.com/images/nimmis/alpine-micro "Get your own image badge on microbadger.com")
+This work is based on nimmis/alpine-micro with whatever kludgery I've managed to also do. Don't use this in production.
 
-This is a very small container (total 7.7 Mb) but still have a working init process, crond, syslog and logrotate. This is the base image for all my other microcontainers
+This is a very small container (total ~9 Mb) but still have a working init process, crond, syslog and logrotate. This is the base image for all my other microcontainers
 
 ### Why use this image
 
